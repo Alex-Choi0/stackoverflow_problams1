@@ -40,6 +40,9 @@ $ npm install
 set the env file first
 - SET MONGODB_CONNECTION
 
+set the node version to 16.19.0
+$ nvm use
+
 # development
 $ npm run start
 
